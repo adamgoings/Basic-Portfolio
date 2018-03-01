@@ -142,7 +142,7 @@ input[type=submit] {
   padding: 20px;
 }
 
-/* .image {
+.image {
   float: left;
   position: relative;
   text-align: center;
@@ -150,10 +150,11 @@ input[type=submit] {
 
 .image h3 {
   position: absolute;
+  margin-left:25px;
   bottom: 25px;
   padding: 5px;
-  width: 100%;
+  width: 230px;
   font-size: 20px;
   color: #ffffff;
   background: #4aaaa5;
-}  */
+} 
