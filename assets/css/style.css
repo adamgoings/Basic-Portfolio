@@ -135,3 +135,25 @@ input[type=submit] {
   cursor: pointer;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+#hangman, #rpg-game, #trivia, #rutgers, #rock {
+  width: 250px;
+  height: 175px;
+  padding: 20px;
+}
+
+/* .image {
+  float: left;
+  position: relative;
+  text-align: center;
+}
+
+.image h3 {
+  position: absolute;
+  bottom: 25px;
+  padding: 5px;
+  width: 100%;
+  font-size: 20px;
+  color: #ffffff;
+  background: #4aaaa5;
+}  */
